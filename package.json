@@ -1,0 +1,30 @@
+{
+  "name": "integrationtests",
+  "version": "1.0.0",
+  "description": "Integration tests for Pimcore",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "npx eslint .",
+    "lint:fix": "npx eslint . --fix"
+  },
+  "keywords": [],
+  "author": "Fernando Teixeira",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.9",
+    "@babel/eslint-parser": "^7.17.0",
+    "@babel/preset-env": "^7.16.11",
+    "@faker-js/faker": "^6.1.2",
+    "@types/jest": "^27.4.1",
+    "@types/supertest": "^2.0.12",
+    "babel-jest": "^27.5.1",
+    "dotenv": "^16.0.0",
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-jest": "^26.1.4",
+    "jest": "^27.5.1",
+    "prettier-eslint": "^13.0.0",
+    "supertest": "^6.2.2"
+  }
+}
