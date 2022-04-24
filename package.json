@@ -22,11 +22,10 @@
     "babel-jest": "27.5.1",
     "dotenv": "16.0.0",
     "eslint": "8.14.0",
-    "eslint-config-prettier": "8.5.0",
+    "eslint-config-google": "0.14.0",
     "eslint-plugin-jest": "26.1.5",
+    "husky": "7.0.4",
     "jest": "27.5.1",
-    "prettier-eslint": "14.0.1",
-    "supertest": "6.2.2",
-    "husky": "7.0.4"
+    "supertest": "6.2.2"
   }
 }

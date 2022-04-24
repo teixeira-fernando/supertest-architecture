@@ -5,7 +5,11 @@
         "sourceType": "module",
         "requireConfigFile": false
     },
-    "extends": ["plugin:jest/recommended", "eslint:recommended", "prettier"],
+    "extends": ["plugin:jest/recommended", "eslint:recommended", "google"],
+    "rules": {
+        "require-jsdoc":"off",
+        "max-len":"off"
+    },
     "env": {
         "node": true,
         "jest": true

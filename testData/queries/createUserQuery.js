@@ -1,5 +1,5 @@
 export default {
-    query: `mutation createNewUser($username: String, $rocketname: String) { 
+  query: `mutation createNewUser($username: String, $rocketname: String) { 
         insert_users(objects: {name: $username, rocket: $rocketname}) {
           returning {
             id
@@ -11,8 +11,8 @@ export default {
         }
       }
     `,
-    variables: {
-        username: "my_new_user",
-        rocketname: "super_rocket"
-    }
-}
+  variables: {
+    username: 'my_new_user',
+    rocketname: 'super_rocket',
+  },
+};
