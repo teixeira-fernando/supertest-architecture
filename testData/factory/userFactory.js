@@ -1,5 +1,5 @@
 import newUserQuery from '../queries/createUserQuery';
-import faker from '@faker-js/faker';
+import {faker} from '@faker-js/faker';
 
 class UserFactory {
   createNewValidUser() {
