@@ -6,9 +6,9 @@ class DragonInfoFactory {
     return allDragonsInfoQuery;
   }
 
-  getInfoSingleDragon(id){
-    singleDragoninfoQuery.variables.dragonId = id 
-    return singleDragoninfoQuery
+  getInfoSingleDragon(id) {
+    singleDragoninfoQuery.variables.dragonId = id;
+    return singleDragoninfoQuery;
   }
 }
 

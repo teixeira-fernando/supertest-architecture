@@ -1,5 +1,5 @@
 export default {
-    query: `query Dragon($dragonId: ID!) {
+  query: `query Dragon($dragonId: ID!) {
         dragon(id: $dragonId) {
           crew_capacity
           id
@@ -19,9 +19,9 @@ export default {
         }
       }
     `,
-    variables: {
-      dragonId: 'PROVIDED_ID'
-    },
-  };
-  
+  variables: {
+    dragonId: 'PROVIDED_ID',
+  },
+};
+
 
