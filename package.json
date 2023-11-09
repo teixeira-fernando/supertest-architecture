@@ -13,9 +13,9 @@
   "author": "Fernando Teixeira",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "7.23.2",
-    "@babel/eslint-parser": "7.22.15",
-    "@babel/preset-env": "7.23.2",
+    "@babel/core": "7.23.3",
+    "@babel/eslint-parser": "7.23.3",
+    "@babel/preset-env": "7.23.3",
     "@faker-js/faker": "8.2.0",
     "@types/jest": "29.5.8",
     "@types/supertest": "2.0.16",
