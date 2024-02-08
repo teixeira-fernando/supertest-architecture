@@ -16,7 +16,7 @@
     "@babel/core": "7.23.9",
     "@babel/eslint-parser": "7.23.10",
     "@babel/preset-env": "7.23.9",
-    "@faker-js/faker": "8.4.0",
+    "@faker-js/faker": "8.4.1",
     "@types/jest": "29.5.12",
     "@types/supertest": "2.0.16",
     "babel-jest": "29.7.0",
