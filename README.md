@@ -5,7 +5,7 @@
 * Babel (to include ES6 support)
 * Jest
 * Eslint
-* Super Test (API Tests framwork)
+* Super Test (API Tests framework)
 * Dotenv (For environment variables setup)
 
 # Important
