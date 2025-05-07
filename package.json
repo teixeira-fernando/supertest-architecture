@@ -15,7 +15,7 @@
   "devDependencies": {
     "@babel/core": "7.27.1",
     "@babel/eslint-parser": "7.27.1",
-    "@babel/preset-env": "7.27.1",
+    "@babel/preset-env": "7.27.2",
     "@faker-js/faker": "8.4.1",
     "@types/jest": "29.5.14",
     "@types/supertest": "6.0.3",
