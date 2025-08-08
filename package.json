@@ -21,7 +21,7 @@
     "@types/supertest": "6.0.3",
     "babel-jest": "29.7.0",
     "dotenv": "16.6.1",
-    "eslint": "9.31.0",
+    "eslint": "9.33.0",
     "eslint-config-google": "0.14.0",
     "eslint-plugin-jest": "28.14.0",
     "husky": "9.1.7",
