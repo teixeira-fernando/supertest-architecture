@@ -20,7 +20,7 @@
     "@types/jest": "29.5.14",
     "@types/supertest": "6.0.3",
     "babel-jest": "29.7.0",
-    "dotenv": "16.6.1",
+    "dotenv": "17.3.1",
     "eslint": "9.39.2",
     "eslint-config-google": "0.14.0",
     "eslint-plugin-jest": "28.14.0",
